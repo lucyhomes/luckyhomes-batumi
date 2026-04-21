@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#1e2d4f"/>
+      <stop offset="100%" stop-color="#0f1a2e"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0%" stop-color="#d4b473" stop-opacity="0.25"/>
+      <stop offset="100%" stop-color="#d4b473" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <circle cx="600" cy="315" r="400" fill="url(#glow)"/>
+
+  <!-- Diamond Logo (centered) -->
+  <g transform="translate(600, 230)">
+    <polygon points="0,-80 80,0 0,80 -80,0" stroke="#faf6ee" stroke-width="3" fill="none"/>
+    <polygon points="0,-60 60,0 0,60 -60,0" stroke="#d4b473" stroke-width="1.5" fill="none" opacity="0.6"/>
+    <circle cx="0" cy="-80" r="4" fill="#d4b473"/>
+    <circle cx="80" cy="0" r="4" fill="#d4b473"/>
+    <circle cx="0" cy="80" r="4" fill="#d4b473"/>
+    <circle cx="-80" cy="0" r="4" fill="#d4b473"/>
+    <text x="0" y="8" text-anchor="middle" font-family="Georgia, serif" font-size="42" fill="#faf6ee" letter-spacing="6">LH</text>
+  </g>
+
+  <!-- Divider -->
+  <line x1="500" y1="365" x2="700" y2="365" stroke="#d4b473" stroke-width="1" opacity="0.5"/>
+
+  <!-- Wordmark -->
+  <text x="600" y="440" text-anchor="middle" font-family="Georgia, serif" font-size="56" font-weight="300" fill="#faf6ee" letter-spacing="10">LUCKY HOMES</text>
+  <text x="600" y="485" text-anchor="middle" font-family="Helvetica, sans-serif" font-size="16" font-weight="500" fill="#d4b473" letter-spacing="14">BATUMI · GEORGIA</text>
+
+  <!-- Tagline -->
+  <text x="600" y="555" text-anchor="middle" font-family="Helvetica, sans-serif" font-size="20" font-weight="300" fill="#faf6ee" opacity="0.7" letter-spacing="4">WHERE YOUR BATUMI STORY BEGINS</text>
+
+  <!-- Small ornaments -->
+  <line x1="440" y1="545" x2="480" y2="545" stroke="#d4b473" stroke-width="1" opacity="0.5"/>
+  <line x1="720" y1="545" x2="760" y2="545" stroke="#d4b473" stroke-width="1" opacity="0.5"/>
+  <circle cx="435" cy="545" r="2" fill="#d4b473" opacity="0.6"/>
+  <circle cx="765" cy="545" r="2" fill="#d4b473" opacity="0.6"/>
+</svg>

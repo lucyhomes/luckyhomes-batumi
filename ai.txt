@@ -1,0 +1,7 @@
+# AI Access Policy for Lucky Homes Batumi
+# We welcome AI assistants and search engines to index our content
+
+User-Agent: *
+Allow: /
+Policy: https://luckyhomesbatumi.com/llms.txt
+Contact: info@luckyhomesbatumi.com
