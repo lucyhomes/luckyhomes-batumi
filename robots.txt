@@ -1,5 +1,4 @@
 # robots.txt for Lucky Homes Batumi
-# Allow all search engines and AI crawlers
 
 User-agent: *
 Allow: /
@@ -32,4 +31,4 @@ Allow: /
 User-agent: CCBot
 Allow: /
 
-Sitemap: https://luckyhomesbatumi.com/sitemap.xml
+Sitemap: https://www.luckyhomesbatumi.com/sitemap.xml
