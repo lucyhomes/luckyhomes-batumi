@@ -2,14 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://luckyhomesbatumi.com/</loc>
+    <loc>https://www.luckyhomesbatumi.com/</loc>
     <lastmod>2026-04-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://luckyhomesbatumi.com/"/>
-    <xhtml:link rel="alternate" hreflang="tr" href="https://luckyhomesbatumi.com/?lang=tr"/>
-    <xhtml:link rel="alternate" hreflang="ru" href="https://luckyhomesbatumi.com/?lang=ru"/>
-    <xhtml:link rel="alternate" hreflang="ka" href="https://luckyhomesbatumi.com/?lang=ka"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://luckyhomesbatumi.com/"/>
+
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.luckyhomesbatumi.com/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://www.luckyhomesbatumi.com/?lang=tr"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.luckyhomesbatumi.com/?lang=ru"/>
+    <xhtml:link rel="alternate" hreflang="ka" href="https://www.luckyhomesbatumi.com/?lang=ka"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.luckyhomesbatumi.com/"/>
+
   </url>
 </urlset>
